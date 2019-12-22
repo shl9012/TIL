@@ -1,1 +1,1 @@
-# 어떤 말을 쓸까 :satisfied:
+어떤 말을 쓸까 :satisfied:
