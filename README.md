@@ -4,7 +4,6 @@
 이 저장소는 [docsify.js](https://docsify.js.org/#/) 를 통해 웹사이트로 만들어졌으며, [netlify](https://www.netlify.com/) 를 이용하여 배포되었습니다.
 
 ## Today I Learned (TIL)
-매일 무엇을 배웠는지 정리하고 기록합니다. <br>
-"Step by step goes a long way" 
-
+오늘 했던 일과 느낀 점을 매일 간단하게 정리합니다. <br>
+배운 상세 내용은 [기술 블로그](https://hanul-dev.netlify.com/)에 정리합니다.
 ## Screenshot
